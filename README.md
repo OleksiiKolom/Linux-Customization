@@ -1,4 +1,4 @@
-![Скріншот результату](./screenshots/screenshot_1.png)
+![Скріншот результату](./screenshots/01.png)
 
 # Кастомізація Linux Ubuntu
 ___
@@ -14,8 +14,8 @@ ___
 
 ## Декілька скріншотів результату
 
-![Скріншот результату](./screenshots/screenshot_2.png)
-![Скріншот результату](./screenshots/screenshot_3.png)
-![Скріншот результату](./screenshots/screenshot_4.png)
-![Скріншот результату](./screenshots/screenshot_5.png)
-![Скріншот результату](./screenshots/screenshot_6.png)
+![Скріншот результату](./screenshots/02.png)
+![Скріншот результату](./screenshots/03.png)
+![Скріншот результату](./screenshots/04.png)
+![Скріншот результату](./screenshots/05.png)
+![Скріншот результату](./screenshots/06.png)
