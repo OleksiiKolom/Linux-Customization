@@ -1,0 +1,47 @@
+User Themes, устанавливает пользовательскую тему для оболочки
+https://extensions.gnome.org/extension/19/user-themes/
+
+Burn My Windows, изменяет стиль включения/выключения окон
+https://extensions.gnome.org/extension/4679/burn-my-windows/
+
+Rounded Window Corners, довавляет скругления к окнам
+https://extensions.gnome.org/extension/5237/rounded-window-corners/
+
+OSD Volume Number, добавляет цифры к ползунку громкости
+https://extensions.gnome.org/extension/5461/osd-volume-number/
+
+ArcMenu, добавляет меню приложений на панель
+https://extensions.gnome.org/extension/3628/arcmenu/
+
+Vitals, добавляет системный мониторинг на панель
+https://extensions.gnome.org/extension/1460/vitals/
+
+Panel Date Format, изменяет формат времени на панели
+https://extensions.gnome.org/extension/3465/panel-date-format/
+
+spotify-tray, выводит исполнителя и название песни Spotify на панель
+https://extensions.gnome.org/extension/4472/spotify-tray/
+
+Spotify Controller, добавляет меню переключения для Spotify на панель
+https://extensions.gnome.org/extension/4013/spotify-controller/
+
+Color Picker, довавляет пипетку на панель
+https://extensions.gnome.org/extension/3396/color-picker/
+
+OpenWeather, добавляет погоду на панель
+https://extensions.gnome.org/extension/750/openweather/
+
+Sound Input & Output Device Chooser, изменяет порядок или убирает устройсва ввода и вывода в системном меню
+https://extensions.gnome.org/extension/906/sound-output-device-chooser/
+
+Bring Out Submenu Of Power Off/Logout Button, убирает кнопки выключения/выхода в системном меню
+https://extensions.gnome.org/extension/2917/bring-out-submenu-of-power-offlogout-button/
+
+Dash to Panel, изменяет панель
+https://extensions.gnome.org/extension/1160/dash-to-panel/
+
+Dash to Dock, добавляет плавающую панель с приложениями 
+https://extensions.gnome.org/extension/307/dash-to-dock/
+
+GSConnect, добавляет подключение к телефону
+https://extensions.gnome.org/extension/1319/gsconnect/

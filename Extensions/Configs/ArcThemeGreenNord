@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "ArcThemeGreenNord",
+    "Menu_Background_Color": "rgb(46,52,64)",
+    "Menu_Foreground_Color": "rgb(152,171,178)",
+    "Menu_Border_Color": "rgba(242,242,242,0.15)",
+    "Menu_Border_Width": "0",
+    "Menu_Border_Radius": "20",
+    "Menu_Font_Size": "11",
+    "Menu_Separator_Color": "rgb(22,160,133)",
+    "Item_Hover_Background_Color": "rgb(22,160,133)",
+    "Item_Hover_Foreground_Color": "rgb(246,245,244)",
+    "Item_Active_Background_Color": "rgb(38,162,105)",
+    "Item_Active_Foreground_Color": "rgb(246,245,244)"
+  }
+]
